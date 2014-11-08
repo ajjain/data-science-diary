@@ -1,0 +1,1 @@
+With 'Data Science Diary' I aim to collect all my notes and exercises in this repository. I am starting this up with a data science course from Coursera.
